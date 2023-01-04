@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Anybody&display=swap");
+body {
+  margin: 0;
+  background: #9fe2bf;
+  font-family: "Anybody", cursive;
+}
+
+#app {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 200px);
+  padding: 24px;
+  gap: 24px;
+}
+
+.note {
+  height: 300px;
+  box-sizing: border-box;
+  padding: 16px;
+  border: 1px solid #d4ac0d;
+  border-radius: 10px;
+  box-shadow: 0 0 7px rgba(0, 0, 0, 0.25);
+  resize: none;
+  font-size: 23px;
+  font-family: "Anybody", cursive;
+}
+
+.add-note {
+  height: 200px;
+  border: none;
+  outline: none;
+  background: rgb(241, 240, 240);
+  border-radius: 10px;
+  font-size: 110px;
+  color: #abebc6;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.add-note:hover {
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.delete {
+  margin-left: 20px;
+  font-weight: 500;
+  font-size: 17px;
+}
