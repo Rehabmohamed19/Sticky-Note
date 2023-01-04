@@ -8,7 +8,7 @@
 
 <br>
  
-![website page](images/stickynote2.png)
+![website page](images/stickynote.PNG)
 
 <br>
 
