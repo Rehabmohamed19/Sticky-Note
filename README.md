@@ -1,4 +1,4 @@
-# Movies Website
+# Sticky Notes Website
 
 <b>The website contain landing page that displays a note taking interface</b>
 
@@ -8,7 +8,7 @@
 
 <br>
  
-![website page](images/stickynotes.png)
+![website page](images/stickynote2.png)
 
 <br>
 
